@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dilucidationesa00stergoog_0008.png"; bbox 0 0 1142 1535; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 156 1297 163 1434">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 156 1297 163 1434">
+     <span class='ocr_line' id='line_1_1' title="bbox 156 1297 163 1434; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 156 1327 163 1434; x_wconf 49' lang='lat' dir='ltr'>vva-.—</span> <span class='ocrx_word' id='word_1_2' title='bbox 156 1297 158 1300; x_wconf 98' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 177 199 889 297">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 177 199 889 297">
+     <span class='ocr_line' id='line_1_2' title="bbox 177 199 889 297; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 177 199 617 297; x_wconf 26' lang='lat' dir='ltr'><strong>DILIJGIDATIONES‘</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 632 239 889 297; x_wconf 81' lang='lat' dir='ltr'>AESOPIAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 403 500 667 526">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 403 500 667 526">
+     <span class='ocr_line' id='line_1_3' title="bbox 403 500 667 526; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 403 500 464 526; x_wconf 80' lang='lat' dir='ltr'>LEO</span> <span class='ocrx_word' id='word_1_6' title='bbox 479 500 667 526; x_wconf 79' lang='lat' dir='ltr'>STERNBACH.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 447 735 626 913">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 447 735 626 913">
+     <span class='ocr_line' id='line_1_4' title="bbox 447 735 626 913; baseline 0 622"><span class='ocrx_word' id='word_1_7' title='bbox 447 735 626 913; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 370 1169 698 1213">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 370 1169 698 1213">
+     <span class='ocr_line' id='line_1_5' title="bbox 456 1169 611 1187; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 456 1169 508 1187; x_wconf 84' lang='lat' dir='ltr'>CRA</span> <span class='ocrx_word' id='word_1_9' title='bbox 511 1169 590 1187; x_wconf 86' lang='lat' dir='ltr'>COV1A</span> <span class='ocrx_word' id='word_1_10' title='bbox 593 1169 611 1187; x_wconf 91' lang='lat' dir='ltr'>E.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 370 1199 698 1213; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 370 1200 465 1213; x_wconf 68' lang='lat' dir='ltr'>smflmsus</span> <span class='ocrx_word' id='word_1_12' title='bbox 474 1200 574 1213; x_wconf 62' lang='lat' dir='ltr'>Aenummz</span> <span class='ocrx_word' id='word_1_13' title='bbox 583 1199 698 1213; x_wconf 69' lang='lat' dir='ltr'>urrfflnum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 295 1226 773 1236">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 295 1226 773 1236">
+     <span class='ocr_line' id='line_1_7' title="bbox 295 1226 773 1236; baseline 0 -1"><span class='ocrx_word' id='word_1_14' title='bbox 295 1226 773 1236; x_wconf 58' lang='grc' dir='ltr'>ιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιιι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
